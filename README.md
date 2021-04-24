@@ -1,9 +1,10 @@
 # marckdownbasico
 Syntax guide
-#guia de sintaxis
+# Guia de sintaxis
+
 Here’s an overview of Markdown syntax that you can use anywhere on GitHub.com or in your own text files.
 Headers
-#*Asi se ponen los titulos*
+# *Asi se ponen los titulos*
 tag
 # This is an <h1> 
 ## This is an <h2> 
